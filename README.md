@@ -7,4 +7,4 @@ Th following code snipppet demonstrates the problem, where the MinWidth=0 seems 
         </StackPanel>
 
 Here is the result
-![Alt text](/capture.png?raw=true "Result")
+![Result](/Capture.Png?raw=true "Result")
