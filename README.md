@@ -6,4 +6,4 @@ Th following code snipppet demonstrates the problem, the MinWidth=0 seems to be 
             <ToggleSwitch IsOn="True" FontWeight="Normal" FontSize="24" Width="Auto" />
         </StackPanel>
 
-        ![Capture](https://github.com/user-attachments/assets/cb036031-3fb7-402a-87c9-484270c54023)
+      
